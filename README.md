@@ -24,6 +24,12 @@ git clone https://github.com/FrancoBonaviri/ToDosApp.git
 * touch .env
 ```
 
+#### agregar connection string
+
+```
+//.env
+MONGO_CONNECTION_STRING=<TU_CONNECTION_STRING>
+```
 
 ### Compilar servidor e iniciarlo
 ```
