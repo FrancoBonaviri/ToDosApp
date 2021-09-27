@@ -27,7 +27,7 @@ git clone https://github.com/FrancoBonaviri/ToDosApp.git
 
 ### Compilar servidor e iniciarlo
 ```
-cd Server
+* cd Server
 * tsc 
 * node dist/
 ```
