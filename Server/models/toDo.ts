@@ -60,7 +60,7 @@ interface ITodo extends Document {
     CreationDate: Date;
     LimitDate: Date;
     User: string;
-    Criticality: CriticalityToDo;,
+    Criticality: CriticalityToDo;
     CompletedDate: Date;
 }
 
