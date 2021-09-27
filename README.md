@@ -11,7 +11,7 @@ git clone https://github.com/FrancoBonaviri/ToDosApp.git
 ### Restaurar node_modules
 
 ```
-* cd client
+* cd ToDosApp/client
 * npm install
 * cd ..
 * cd Server
