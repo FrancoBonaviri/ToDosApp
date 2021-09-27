@@ -29,6 +29,8 @@ git clone https://github.com/FrancoBonaviri/ToDosApp.git
 ```
 //.env
 MONGO_CONNECTION_STRING=<TU_CONNECTION_STRING>
+DEV=true
+PRIVATE_KEY_JWT=RANDOM-KEY
 ```
 
 ### Compilar servidor e iniciarlo
